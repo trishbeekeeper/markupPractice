@@ -9,7 +9,6 @@ Practicing markup code and version control with branches
 
 My project is [here](https://rpubs.com/trishBeekeeper44231/751030)!
 
-![lion and lamb](https://img.17qq.com/images/qrrtuwqtchx.jpeg)
 
 
 An example of R code for making a figure is below:
