@@ -1,6 +1,7 @@
 # markupPractice
 Practicing markup code and version control with branches
 
+## **Weather Prediction: Do Lions and Lambs help?**
  
  For my data analytics class in Spring 2021, I evaluated the question "Does March come in like a lion, and go out like a lamb?" This is a folk wisdom that poor weather in the early part of the month means the end will be nice. An example would be snow, wind and chilly temps during the first week of March, and above average temps with little precipitation the last week.
 
@@ -8,7 +9,6 @@ Practicing markup code and version control with branches
 
 My project is [here](https://rpubs.com/trishBeekeeper44231/751030)!
 
-![lion and lamb](https://img.17qq.com/images/qrrtuwqtchx.jpeg)
 
 
 An example of R code for making a figure is below:
