@@ -23,4 +23,6 @@ An example of R code for making a figure is below:
   ```
   where **_fig3.raw.normed_** is the name of the figure that is called later, and the rest of the code after the **_<-_** is the instructions on drawing the figure. 
 
-  The upshot of my findings: February seems to do a better job of coming in like a lion, and out like a lamb. It is probably just random. 
+  The upshot of my findings: February seems to do a better job of coming in like a lion, and out like a lamb. 
+  
+  And so, I have concluded any lion-to-lamb transition is probably just random. 
